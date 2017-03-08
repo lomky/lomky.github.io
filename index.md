@@ -17,7 +17,7 @@ Contributing to the [DCAF Case Manager](https://github.com/colinxfleming/dcaf_ca
  - [Coursera](https://www.coursera.org) [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/)
    - My Coursework [site](https://lomky.github.io/coursera-webdev/) and [code](https://github.com/lomky/coursera-webdev)
  - [Coursera](https://www.coursera.org) [Ruby on Rails Web Services and Integration with MongoDB](https://www.coursera.org/learn/ruby-on-rails-web-services-mongodb)
-   - My Coursework [site](https://lomky.github.io/coursera-ror-mongodb/)
+   - My Coursework [site](https://lomky.github.io/coursera-ror-mongodb/) and [code](https://github.com/lomky/coursera-ror-mongodb)
    
 ### Ongoing
 
