@@ -1,7 +1,7 @@
 title: Lomky.GitHub.io
-description: Cause Why Not
+description: Mucking About on the Web
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-midnight
 
 gems:
