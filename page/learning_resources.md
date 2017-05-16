@@ -12,7 +12,9 @@ These are the resources I consider worthwhile for gaining and improving your kno
   - [Computer Programming](https://www.khanacademy.org/computing/computer-programming) will introduce you to javascript, a real world programming language. Follow it up with the the two [Advanced](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) Javascript [Courses](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
   - [Intro to HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css) will show you how to create and design your own website. Then learn how to combine the with the Javascript you learned to [improve your website](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
-High School Courses! - When you get to high school, you should find programming courses you can take. I had them as electives, but I but these days they are 
+High School Courses! - When you get to high school, you should find programming courses you can take.
+
+**[HackerRank](https://www.hackerrank.com/)** - a great site with tutorial problems you can solve in over a dozen various programming languages. Very helpful when learning a new language. Also runs programming competitions you can participate in.
 
 ## Intermediate Level
 
