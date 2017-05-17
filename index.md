@@ -10,13 +10,11 @@ Contributing to the [DCAF Case Manager](https://github.com/colinxfleming/dcaf_ca
 
 ## Coursework
 
-### Current Courses - Winter 2017
+### Current Courses - Spring 2017
 
- - [FutureLearn](https://www.futurelearn.com) [Functional Programming in Erlang](https://www.futurelearn.com/courses/functional-programming-erlang)
-   - My Coursework [site](https://lomky.github.io/future-learn-erlang/) and [code](https://github.com/lomky/future-learn-erlang)
- - [Coursera](https://www.coursera.org) [Ruby on Rails Web Services and Integration with MongoDB](https://www.coursera.org/learn/ruby-on-rails-web-services-mongodb)
-   - My Coursework [site](https://lomky.github.io/coursera-ror-mongodb/) and [code](https://github.com/lomky/coursera-ror-mongodb)
-   
+ - [FutureLearn](https://www.futurelearn.com) [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell)
+   - My Coursework [site](https://lomky.github.io/future-learn-haskell/) and [code](https://github.com/lomky/future-learn-haskell)
+
 ### Ongoing
 
   - [Duolingo](https://www.duolingo.com/Lomkey)
@@ -31,5 +29,14 @@ Contributing to the [DCAF Case Manager](https://github.com/colinxfleming/dcaf_ca
  - [FutureLearn](https://www.futurelearn.com) [Introduction to Linked Data and the Semantic Web](https://www.futurelearn.com/courses/linked-data/) - _Fall 2016_
  
  - [FutureLearn](https://www.futurelearn.com) [Monitoring Climate from Space](https://www.futurelearn.com/courses/climate-from-space/) - _Spring 2016_
- - [FutureLearn](https://www.futurelearn.com) - [Earth Observation from Space: the Optical View](https://www.futurelearn.com/courses/optical-earth-observation/) _Summer 2016_
- - [FutureLearn](https://www.futurelearn.com) - [Monitoring the Oceans from Space](https://www.futurelearn.com/courses/oceans-from-space/) _Fall 2016_
+ - [FutureLearn](https://www.futurelearn.com) - [Earth Observation from Space: the Optical View](https://www.futurelearn.com/courses/optical-earth-observation/) - _Summer 2016_
+ - [FutureLearn](https://www.futurelearn.com) - [Monitoring the Oceans from Space](https://www.futurelearn.com/courses/oceans-from-space/) - _Fall 2016_
+
+### Inactive Courses
+
+ - [Coursera](https://www.coursera.org) [Ruby on Rails Web Services and Integration with MongoDB](https://www.coursera.org/learn/ruby-on-rails-web-services-mongodb)
+   - My Coursework [site](https://lomky.github.io/coursera-ror-mongodb/) and [code](https://github.com/lomky/coursera-ror-mongodb)
+   - Started Winter 2017, stopped as of Spring 2017. Displeased with course; no plans to revive.
+ - [FutureLearn](https://www.futurelearn.com) [Functional Programming in Erlang](https://www.futurelearn.com/courses/functional-programming-erlang)
+   - My Coursework [site](https://lomky.github.io/future-learn-erlang/) and [code](https://github.com/lomky/future-learn-erlang)
+   - Started Winter 2017, paused as of Spring 2017. May resume later.
