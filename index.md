@@ -7,6 +7,7 @@ Currently working for the [US Global Change Research Program](globalchange.gov) 
  - Open Source Contributor to [DCAF Case Manager](https://github.com/colinxfleming/dcaf_case_management)
     - a Ruby on Rails project backed by MongoDB.
  - Volunteer Teacher with [Code4Life](https://www.code4life.us/)
+   - Fall 2017 - TBD
    - Spring 2017 - Eight week course teaching a dozen middle schoolers introductory programming in [Snap!](http://snap.berkeley.edu/)
 
 ## Personal Coursework
