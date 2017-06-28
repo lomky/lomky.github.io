@@ -2,7 +2,6 @@
 
 These are the resources I consider worthwhile for gaining and improving your knowledge of computer science & programming. Most are focused on areas I have an interest in. There are many great resources I may not know to recommend, but I attest to the quality of the ones here.
 
-
 ## Introductory / Novice Level
 
 **[Crash Course - Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)** - this is a great introduction to the history and context of computer science. If you want to understand why computer programming works like it does today, you need a grounding in how we got here.  
@@ -15,6 +14,8 @@ These are the resources I consider worthwhile for gaining and improving your kno
 High School Courses! - When you get to high school, you should find programming courses you can take.
 
 **[HackerRank](https://www.hackerrank.com/)** - a great site with tutorial problems you can solve in over a dozen various programming languages. Very helpful when learning a new language. Also runs programming competitions you can participate in.
+
+**[LearnEnough](https://www.learnenough.com/tutorials)** - has a wonderful set of tutorials for all the skillsets you need to be a successful programmer. This includes a lot of the secondary skills not covered elsewhere, such as command line usage and version control, and hte primary skills of development itself. Highly recommended for working through from start to finish.
 
 ## Intermediate Level
 
