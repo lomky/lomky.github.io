@@ -10,10 +10,9 @@ Currently working for the [US Global Change Research Program](globalchange.gov) 
    - Spring 2017 - Eight week course teaching a dozen middle schoolers introductory programming in [Snap!](http://snap.berkeley.edu/)
 
 ## Personal Coursework
-### Current Courses - Spring 2017
+### Current Courses - Summer 2017
 
- - [FutureLearn](https://www.futurelearn.com) [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell)
-   - My Coursework [site](https://lomky.github.io/future-learn-haskell/) and [code](https://github.com/lomky/future-learn-haskell)
+ - [LearnEnough](https://www.learnenough.com) [The Rails Tutorial](http://www.railstutorial.org/book)
 
 ### Ongoing
 
@@ -40,3 +39,6 @@ Currently working for the [US Global Change Research Program](globalchange.gov) 
  - [FutureLearn](https://www.futurelearn.com) [Functional Programming in Erlang](https://www.futurelearn.com/courses/functional-programming-erlang)
    - My Coursework [site](https://lomky.github.io/future-learn-erlang/) and [code](https://github.com/lomky/future-learn-erlang)
    - Started Winter 2017, paused as of Spring 2017. May resume later.
+ - [FutureLearn](https://www.futurelearn.com) [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell)
+   - My Coursework [site](https://lomky.github.io/future-learn-haskell/) and [code](https://github.com/lomky/future-learn-haskell)
+   - Started Winter 2017, paused as of Summer 2017. May resume later.
