@@ -1,8 +1,8 @@
-title: Kat Rambles
+title: Kat Tipton
 description: Mucking About on the Web
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-midnight
+theme: jekyll-theme-time-machine
 
 gems:
   - jekyll-mentions
